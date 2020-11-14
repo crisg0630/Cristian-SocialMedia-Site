@@ -10,18 +10,17 @@ Please follow the instructions below and fill in the information requested when 
 
 |               | Information   |
 |:-------------:|:-------------:|
-| Student Name  | name-here     |
-| Student ID    | id-here       |
-| Student Email | email-here    |
+| Student Name  | Cristian Alexis Garcia Cortez |
+| Student ID    | 920317889     |
+| Student Email | cgarciacortez@mail.sfsu.edu   |
 
 
 
 # Build/Run Instructions
 
 ## Build Instructions
-1. steps here
-2. steps here
+1. CD into the directory
+2. Run npm install
 
 ## Run Instructions
-1. steps here
-2. steps here 
+1. npm start
