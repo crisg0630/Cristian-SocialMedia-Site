@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+</head>
+<body>
+<div id = "main-content">
+    {{#each results}}
+            {{>card this}}
+        {{/each}}
+</div>
+<style>
+    #main-content{
+        grid-area: content;
+        padding-top: .35em;
+        padding-bottom: .35em;
+        display: grid;
+        gap: .2rem .2rem;
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-auto-columns: 1fr 1fr 1fr 1fr;
+        grid-auto-rows: 1fr;
+
+    }
+    .card-body{
+        grid-area: 2/ 1/ 3/ 2;
+        padding: .75rem;
+        background-color: #00B7FF;
+        border-radius: 0 0 .2rem .2rem;
+
+    }
+
+    .card{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+    }
+
+</style>
+</body>
+</html>
+</html>

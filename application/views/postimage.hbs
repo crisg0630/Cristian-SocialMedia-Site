@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/public/css/postimage.css">
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <title>Post Image</title>
+</head>
+<body>
+
+<form id="post-form" class="form-grid-postimage" method="POST" enctype="multipart/form-data">
+    <div class="postImage">
+        <div id = "icon">
+        <img src="../public/pictures/post.png" class="posticon">
+        </div>
+        <h1>Post Image</h1>
+    <label for="posttitle"><b>Post Title:</b></label>
+    <input type="text" placeholder="Enter post title" name="title" id="posttitle" required>
+
+    <br>
+    <br>
+
+    <label for="postdescription"><b>Post Description:</b></label>
+    <input type="text" placeholder="Enter post description" name="description" id="postdescription" required>
+
+       <p><label for="postimage"><b>Pick a picture to post:</b></label>
+
+        <input type="file"
+               id="postimage" name="uploadImage"
+               accept="image/png, image/jpeg" required>
+       </p>
+
+        <p><label>
+                <input type="checkbox"  class="thecheckbox" name="Acceptable Use Policy" required>
+            </label>
+            Accept <a href="#">Acceptable Use Policy</a> for uploading images
+        </p>
+
+        <button type="submit" class="submitImage">Submit Image</button>
+
+    </div>
+</form>
+<script>
+    const _form = document.getElementById('post-form');
+    _form.onsubmit = function(event){
+        event.preventDefault();
+        let _body = new FormData(_form);
+
+        fetch('/posts/createPost',{
+            body: _body,
+            method: "POST"
+        })
+        .then((data)=>{
+            console.log(data);
+            return data.json();
+        })
+                .then((dataAsObject)=>{
+                    console.log(dataAsObject);
+                    alert(dataAsObject.message);
+                    location.replace(dataAsObject.redirect);
+
+                })
+        .catch(err=> console.log(err));
+    }
+
+</script>
+</body>
+</html>

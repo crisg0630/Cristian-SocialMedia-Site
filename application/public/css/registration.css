@@ -1,0 +1,57 @@
+h1 {
+    text-align:center;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url("../pictures/cool-background.png");
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.registration{
+    width: 500px;
+    height: 520px;
+    background: yellow;
+    color:firebrick;
+/*    top: 50%;
+    left: 50%;*/
+/*    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;*/
+}
+
+.avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+   /* position: absolute;*/
+    top:-50px;
+    left: calc(50% - 50px);
+}
+#theform{
+    display: flex;
+    justify-content:center;
+}
+#theavatar{
+    display: flex;
+    justify-content:center;
+}
+label{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.registration label{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.registration input{
+    width: 100%;
+    margin-bottom: 0;
+}

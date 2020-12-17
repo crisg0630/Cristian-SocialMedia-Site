@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2e082d8-f02e-4f1a-b0c5-764022af0735" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/csc317db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/database.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/helpers/debug/debugprinters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/helpers/error/PostError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/helpers/error/UserError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/middleware/postsmiddleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/middleware/routeprotectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/Users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/comments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/.idea/csc317-code-crisg0630.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/css/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/css/Imagepost.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/css/postimage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/css/registration.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/html/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/002ee77bbb6ad42c4734c4380f0dc7f22987d655eaf0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/0202a4fa37b75b8ba72cc5d7c7a0cc555c9808af460f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/03cde4df4ed3500272a9cb5ef84c82be9d145bd668d1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/0d8ac24c7a905429a3c3f45f222c214fd0a0affa82cc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/112d8d43c61873b33873fe55512502b1a68842f51a4c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/123d71635f709253b590b2c66d0c5a227f077b87a3fd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/18e6434d29838a20451d0f097254d921dcb7fabd76a3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/1c92dbb1ac6e428d9c033f02e1ed14e33f85d247b67a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/21c7f048d46b33b05732c4537d6ff36b19402aa5353b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/22f8e02d77c41fa8a10c6ef9e6be22c919f7d1c3fb1e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/28fa09ecf6f99e91678ecd2d8723de7db74d27fd5268.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/29e08e168a6b6507189133759b930ca21f8971affdde.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/2ac57f3b76051e01f004ef3c092c47a09b37685e2028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/2ef2e19f34cff418cac57f83972a95ca15c18bde435b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/3288a463c5909da24a2f6e990017fce06162c5aed807.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/361a3f7e4dc3248a7216da32c1abf43d79318a18e324.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/3a37ed695afd58950843592977cb72a5b0c15835a7c5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/3a608fc38c0bad3247a9db4ba732f3be7131fe323e8c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/3bf7adcadc6eaf9d9a5e25bdf23fedb3d532edebd746.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/3c276750e290e9e29d376bccdc2a7715b9a06c5ea980.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/3c7ee099faebfcbe17cf9e08f1d9e4ed7e2692ff83a7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/3d188f437c17a4ebd8aa0862da1ee9c0ff901fb3c338.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/3d802f08b789d60b9dada4206900900fe4ff1e0db203.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/41bddb8321055f8fb83662d1318e72ebf86c54220f21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/42b57a261882b096aef2679a6c26870ee42b10685217.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/47e4506c0790085ed83f8c243a51e33c313e1a9233bf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/55c6075de6b0796ce0f4c246d1b3e438a65433101620.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/570f18b70562a0896200c47c2059ec495d388af6eaa6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/5c51398218639de578b84a323752a189a0ff7e5532eb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/5ed50c4fd0652537f80d2cc72fd07bf881827766456d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/60a6f5db344382999a0f4e0384ff5bdca5c662959240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/6341c6b4adcaa7c9e8f27d2717cc04ac2784495d2cc6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/648acc06e34ef0818de72637286e93e61f83776e1bc0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/66156daa86ffcb9d440c97cfb5dbaa57540f1ec7cc49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/6c5b2b1edc04551cc8af5b05206319f3e7b01e37928e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/71dac52b0ed0dbe717c9f4bfc6fdb070ae067f4aaa07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/72e814633bdb214122e37721a823c38573a081431d8a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/79c9bac4fd1d5c9dfbc7677e8deebf0a1927c2411a6e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/7c6d98498a18c3b74cf24fb9f7d12688815d5ec7485d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/7cef8300b0953276a7e8bd93e9eeaf0af18a210c7685.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/7fdb548767433b4b35792fe9836fd36e9749ec44ad2e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/84d7a5dde873ed1345b8e186e3a3e1c752e1c1c207a6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/8819625e65029f56fe6cc56a69b998e0065435296971.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/8bb1d1034156adc894a93421726151ff895272a51c3b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/8ca42e1302dd926acc00b7343ca5fa61c6aa7e78eeea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/8e258fe979bdd2c9e274640cc34c173dd3a4c8b45781.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/8e2eb5ac3c2db1f0881671b9f3a5191bb9ed662706dd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/91f638910540ce36070b48f8519e0978fc58ab12479a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/9393f1bbdc3f3c311c4466177a9ca6260333bb2db2ac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/94bac40533cbae57f2b5da732036fc074b7498c961b1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/96f17eeadf0c1d79e628401f03876cbf21adb219ac8c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/9b35681eb529e44423fe0cd2057564eedba94e87ee2e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/9be466eb8d20d8438c3dd7902fdae96aa800f6d83589.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/a1d6379e135a11a3a9fc2762af6c8b304f83be1a0149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/a38de7cbbac219be92c45105af500584ee55d23d34da.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/a578a498a5fb6e37f7754eb4ed8159456b5f9ef7a7b4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/a6c0a51d34e6eb5c836ab09e270e23be99d5647d5e10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/a74a386c0e1e251d2f8ad6b2406dbc96af926a9f93fe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/af227616b71904060f6fb28bb1418afff4c74d254159.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/b058d4b6a3587896deee445888191337ecdd7f73ff03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/b36f93d28f3b51e70ee567e67b8bc6058e891d4d3317.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/b49a0c5141f77294368e697588efe69337b5a7e27dbf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/b8349287def5275849351a817f1a6ae95b120282714c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/bd3cdb6f360e80bc00ebad31bf4e96c4deaeba4c0235.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/c43ce87d110b2c881446f097773ec44f8886ca4605e4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/c488e9c3577f58a734595049daf6e60d9845d3c57af6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/c51b19a8f899b87fbd398194621e2cb625917496f50e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/c71e60e5341f55b155f68404c483c8d2b329f7b29c99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/c8e6527e5a813d0027d1666a2b4236120103b7eb90d2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/cb5976e1f528e55b51ac64cd3d72d2df02ea68822fcc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/cc00fc68080f7a9338c2c2205da4c1815d78e02b3597.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/d730986f70f92a789d3eaf4281603f59ab7a8b63f206.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/da0c0fa74447c71532e74fcd6e2aaf1aa312a8db2c72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/de0634a9a2137bad6ef1fc5de61a74e55355c6909e61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/df1d0bdf23139fe577b224f3ee9af00f6dcaf7d71f82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/e4a65a5b3f50daf5ccfb96c725a2b0d4b482fda0d7ba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/e6e69de349202ab10ec59a8d6606b88543d3269c047d.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/ec2c03690dfce1ce6db6d1e32e41b4ede245f1165d35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/f223f8b6bdaf8f492e876cf685b06b94077b44607a00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/f7309b2ab0fc0385bea456c693444fadbf4648b779fc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/fa60619e0e9b41d20679c38757d5d3713cdd0bb14057.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-002ee77bbb6ad42c4734c4380f0dc7f22987d655eaf0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-0202a4fa37b75b8ba72cc5d7c7a0cc555c9808af460f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-03cde4df4ed3500272a9cb5ef84c82be9d145bd668d1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-0d8ac24c7a905429a3c3f45f222c214fd0a0affa82cc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-112d8d43c61873b33873fe55512502b1a68842f51a4c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-123d71635f709253b590b2c66d0c5a227f077b87a3fd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-1c92dbb1ac6e428d9c033f02e1ed14e33f85d247b67a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-22f8e02d77c41fa8a10c6ef9e6be22c919f7d1c3fb1e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-28fa09ecf6f99e91678ecd2d8723de7db74d27fd5268.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-29e08e168a6b6507189133759b930ca21f8971affdde.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-2ac57f3b76051e01f004ef3c092c47a09b37685e2028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-2ef2e19f34cff418cac57f83972a95ca15c18bde435b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-3288a463c5909da24a2f6e990017fce06162c5aed807.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-361a3f7e4dc3248a7216da32c1abf43d79318a18e324.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-3a37ed695afd58950843592977cb72a5b0c15835a7c5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-3a608fc38c0bad3247a9db4ba732f3be7131fe323e8c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-3bf7adcadc6eaf9d9a5e25bdf23fedb3d532edebd746.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-3c276750e290e9e29d376bccdc2a7715b9a06c5ea980.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-3c7ee099faebfcbe17cf9e08f1d9e4ed7e2692ff83a7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-3d802f08b789d60b9dada4206900900fe4ff1e0db203.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-41bddb8321055f8fb83662d1318e72ebf86c54220f21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-42b57a261882b096aef2679a6c26870ee42b10685217.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-47e4506c0790085ed83f8c243a51e33c313e1a9233bf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-55c6075de6b0796ce0f4c246d1b3e438a65433101620.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-5c51398218639de578b84a323752a189a0ff7e5532eb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-60a6f5db344382999a0f4e0384ff5bdca5c662959240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-6341c6b4adcaa7c9e8f27d2717cc04ac2784495d2cc6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-648acc06e34ef0818de72637286e93e61f83776e1bc0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-66156daa86ffcb9d440c97cfb5dbaa57540f1ec7cc49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-6c5b2b1edc04551cc8af5b05206319f3e7b01e37928e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-71dac52b0ed0dbe717c9f4bfc6fdb070ae067f4aaa07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-72e814633bdb214122e37721a823c38573a081431d8a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-79c9bac4fd1d5c9dfbc7677e8deebf0a1927c2411a6e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-7c6d98498a18c3b74cf24fb9f7d12688815d5ec7485d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-7cef8300b0953276a7e8bd93e9eeaf0af18a210c7685.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-7fdb548767433b4b35792fe9836fd36e9749ec44ad2e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-84d7a5dde873ed1345b8e186e3a3e1c752e1c1c207a6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-8819625e65029f56fe6cc56a69b998e0065435296971.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-8bb1d1034156adc894a93421726151ff895272a51c3b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-8ca42e1302dd926acc00b7343ca5fa61c6aa7e78eeea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-8e2eb5ac3c2db1f0881671b9f3a5191bb9ed662706dd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-91f638910540ce36070b48f8519e0978fc58ab12479a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-9393f1bbdc3f3c311c4466177a9ca6260333bb2db2ac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-94bac40533cbae57f2b5da732036fc074b7498c961b1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-96f17eeadf0c1d79e628401f03876cbf21adb219ac8c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-9b35681eb529e44423fe0cd2057564eedba94e87ee2e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-9be466eb8d20d8438c3dd7902fdae96aa800f6d83589.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-a1d6379e135a11a3a9fc2762af6c8b304f83be1a0149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-a38de7cbbac219be92c45105af500584ee55d23d34da.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-a578a498a5fb6e37f7754eb4ed8159456b5f9ef7a7b4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-a6c0a51d34e6eb5c836ab09e270e23be99d5647d5e10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-a74a386c0e1e251d2f8ad6b2406dbc96af926a9f93fe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-af227616b71904060f6fb28bb1418afff4c74d254159.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-b36f93d28f3b51e70ee567e67b8bc6058e891d4d3317.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-b8349287def5275849351a817f1a6ae95b120282714c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-bd3cdb6f360e80bc00ebad31bf4e96c4deaeba4c0235.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-c43ce87d110b2c881446f097773ec44f8886ca4605e4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-c488e9c3577f58a734595049daf6e60d9845d3c57af6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-c51b19a8f899b87fbd398194621e2cb625917496f50e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-c71e60e5341f55b155f68404c483c8d2b329f7b29c99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-c8e6527e5a813d0027d1666a2b4236120103b7eb90d2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-cb5976e1f528e55b51ac64cd3d72d2df02ea68822fcc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-cc00fc68080f7a9338c2c2205da4c1815d78e02b3597.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-d730986f70f92a789d3eaf4281603f59ab7a8b63f206.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-da0c0fa74447c71532e74fcd6e2aaf1aa312a8db2c72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-de0634a9a2137bad6ef1fc5de61a74e55355c6909e61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-df1d0bdf23139fe577b224f3ee9af00f6dcaf7d71f82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-e4a65a5b3f50daf5ccfb96c725a2b0d4b482fda0d7ba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-e6e69de349202ab10ec59a8d6606b88543d3269c047d.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-ec2c03690dfce1ce6db6d1e32e41b4ede245f1165d35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-f223f8b6bdaf8f492e876cf685b06b94077b44607a00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/images/uploads/thumbnail-fa60619e0e9b41d20679c38757d5d3713cdd0bb14057.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/js/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/js/frontendjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/js/registration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/pictures/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/pictures/cool-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/pictures/post.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/public/pictures/thepost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/routes/comments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/routes/dbtest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/routes/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/Imagepost.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/error.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/layouts/home.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/login.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/partials/card.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/partials/comment.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/partials/flashmessage.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/partials/footer.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/postimage.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/registration.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/application/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/application/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/routes/users.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/csc317-Fall2020/csc317-termproject-crisg0630" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kIgi2ZX7NzyBVMIok9XFjtXi4T" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SCSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csc317-termproject-team16" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\crist\csc317-termproject-crisg0630\application\views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2e082d8-f02e-4f1a-b0c5-764022af0735" name="Default Changelist" comment="" />
+      <created>1605393642753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605393642753</updated>
+      <workItem from="1605393643848" duration="1068000" />
+      <workItem from="1605395327678" duration="15838000" />
+      <workItem from="1606278065654" duration="21315000" />
+      <workItem from="1606945606835" duration="825000" />
+      <workItem from="1606946450387" duration="122683000" />
+      <workItem from="1607987049096" duration="5818000" />
+      <workItem from="1607993933008" duration="774000" />
+      <workItem from="1607996867478" duration="36579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1607576607651">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1607576607651" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1605821957050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1605821957050" />
+    <state x="100" y="157" key="run.anything.popup" timestamp="1607652095167">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="100" y="157" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1607652095167" />
+    <state x="141" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1607022252496">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="141" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1607022252496" />
+  </component>
+</project>

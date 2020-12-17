@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/public/css/registration.css">
+    <script defer type="text/javascript" src="/public/js/registration.js"></script>
+    <title>Registration</title>
+</head>
+<body>
+
+<form onsubmit="return validate()" id ="theform" method= "POST" action ="/users/register" enctype="application/x-www-form-urlencoded">
+    <div class="registration">
+
+        <div id="theavatar">
+        <img src="../public/pictures/avatar.png" class="avatar">
+        </div>
+        <h1>Register Here</h1>
+
+        <label for="unamer"><b>Username</b></label>
+        <input type="text" placeholder="Enter Username" name="username" id="unamer" required>
+
+        <label for="emailr"><b>Email</b></label>
+        <input type="email" placeholder="Enter Email" name="email" id="emailr" required>
+
+        <label for="pswr"><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="password" id="pswr" required>
+        <label for="psw-confirm"><b>Confirm Password</b></label>
+        <input type="password" placeholder="Confirm Password" name="cpassword" id="psw-confirm"  required>
+        <span id="message"></span>
+       <p><label>
+           <input type="checkbox"  name="You are 13+ years of age"required>I am 13+ years of age
+       </label></p>
+
+        <p>
+            <label>
+                <input type="checkbox"  name="Privacy Rules"required>
+            </label>
+            Accept <a href="#">TOS and Privacy rules</a>
+        </p>
+
+        <br>
+        <button type="submit" class="registerbtn" id ="register" >Register</button>
+    </div>
+</form>
+
+
+</body>
+</html>

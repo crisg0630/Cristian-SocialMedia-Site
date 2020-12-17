@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="/public/css/login.css">
+</head>
+<body>
+
+<form id="login-form" class="form-grid-login" method="POST" action="/users/login"
+enctype="application/x-www-form-urlencoded">
+
+    <div class="loginbox">
+        <div id ="theavatar">
+        <img src="../public/pictures/avatar.png" class="avatar">
+    </div>
+        <h1>Log in Here</h1>
+        <label for="unamel"><b>Username</b></label>
+        <input type="text" placeholder="Enter Username" name="username" id="unamel" required>
+
+        <label for="pswl"><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="password" id="pswl" required>
+
+
+
+        <button type="submit">Login</button>
+        <a href="/registration">Don't have an account?</a>
+    </div>
+
+</form>
+</body>
+</html>
