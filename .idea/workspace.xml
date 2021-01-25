@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2e082d8-f02e-4f1a-b0c5-764022af0735" name="Default Changelist" comment="" />
+    <list default="true" id="a2e082d8-f02e-4f1a-b0c5-764022af0735" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +62,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SCSS" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csc317-termproject-team16" />
+    <property name="last_opened_file_path" value="$USER_HOME$/csc317-termproject-team16" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -86,6 +88,8 @@
       <workItem from="1607987049096" duration="5818000" />
       <workItem from="1607993933008" duration="774000" />
       <workItem from="1607996867478" duration="37118000" />
+      <workItem from="1610768747345" duration="23000" />
+      <workItem from="1611606515673" duration="599000" />
     </task>
     <servers />
   </component>
