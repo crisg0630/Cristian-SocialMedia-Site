@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this repository is to store all the code for my web application.
+The purpose of this repository is to store all the code for my web application. This application is a social media website where users can post pictures, see other users' posts, and make comments on posts.
 
 
 ## Student Information
